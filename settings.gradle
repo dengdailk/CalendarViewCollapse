@@ -1,0 +1,2 @@
+include ':app',':CollapseCalendarView'
+rootProject.name = "CalendarViewCollapse"
